@@ -18,11 +18,8 @@ This is where you'll find some common resources as well as full lessons.
 3. [Unit 3 - Python Scripting and Web Scraping](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit03)
 4. [Unit 4 - NoSQL Databases](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit04)
 5. [Unit 5 - Intro to Cloud Ops With AWS](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit05)
-
 6.[Unit 6 - Cloud Ops with AWS](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit06)
-
 7.[Unit 7 - Review](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit07)
-
 8.[Unit 8 - Final Project](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit08)
 
 
