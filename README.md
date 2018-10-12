@@ -13,13 +13,13 @@ This is where you'll find some common resources as well as full lessons.
 ## Units 
 
 0. [Onboarding Week](https://github.com/InforGenOne/NYC-Tech/tree/master/units/onboarding)
-1. [Unit 1 -  Intro to DevOps](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit01)
-2. [Unit 2 - Python Fundamentals](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit02)
-3. [Unit 3 - Python Scripting and Web Scraping](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit03)
-4. [Unit 4 - NoSQL Databases](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit04)
-5. [Unit 5 - Intro to Cloud Ops With AWS](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit05)
-6. [Unit 6 - Cloud Ops with AWS](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit06)
-7. [Unit 7 - Review](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit07)
-8. [Unit 8 - Final Project](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit08)
+1. [Unit 1 -  Intro to DevOps](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit1)
+2. [Unit 2 - Python Fundamentals](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit2)
+3. [Unit 3 - Python Scripting and Web Scraping](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit3)
+4. [Unit 4 - NoSQL Databases](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit4)
+5. [Unit 5 - Intro to Cloud Ops With AWS](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit5)
+6. [Unit 6 - Cloud Ops with AWS](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit6)
+7. [Unit 7 - Review](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit7)
+8. [Unit 8 - Final Project](https://github.com/InforGenOne/NYC-Tech/tree/master/units/unit8)
 
 
