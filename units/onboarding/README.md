@@ -11,6 +11,7 @@ The goal of this unit is to get us familiar with the course goals, rules and str
 1. [Onboarding Day 1](https://docs.google.com/presentation/d/11z_0uB-5Z0cwEhiNYyUXjxBo3vwkDOqfqMJPdzKw_jg/edit?usp=sharing)
 2. [Onboarding Day 2](https://docs.google.com/presentation/d/11-Vpwxjms7QMguItv1MjnQzy0opkFu6YP4ysQh9Aoc8/edit?usp=sharing)
 3. [Onboarding Day 3](https://docs.google.com/presentation/d/157anwXu6WtHnaCwZuilvRX235yOrvA6af_EiX0aN70o/edit?usp=sharing)
+4. [Onboarding Day 4](https://docs.google.com/presentation/d/17F36ryR2ir3K_FVNysX70oF7T340BEc5Ynu_E_CJg9c/edit?usp=sharing)
 
 
 ## Day 1 Reading and Resources
@@ -27,5 +28,23 @@ The goal of this unit is to get us familiar with the course goals, rules and str
 
 ## Day 3 Reading and Resources
 
+* [Git workflow Cheat Sheet](http://rogerdudler.github.io/git-guide/)
 * [What is SQL? Crash Course](http://www.sqlcourse.com/intro.html)
 * [7 Important Reasons to Use Python](https://medium.com/@mindfiresolutions.usa/python-7-important-reasons-why-you-should-use-python-5801a98a0d0b)
+
+
+
+## Day 4 Reading and Resources
+
+* [Understanding the difference between UNIX and LINUX](https://opensource.com/article/18/5/differences-between-linux-and-unix)
+* [Ubuntu over Windows](https://askubuntu.com/questions/360161/what-advantages-does-ubuntu-have-over-windows-as-an-environment-for-programming)
+* [Linux Directory Structure](https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/)
+
+
+
+
+
+
+
+
+
