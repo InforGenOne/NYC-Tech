@@ -30,7 +30,8 @@ Launch Sublime Text from the command line
 
 #### Linux Learning Resources
 
-Linux Cheatsheet
+[Linux Cheatsheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
+
 Linux Syntax
 Piping into X-Clip
 
