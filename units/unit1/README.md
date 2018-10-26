@@ -20,6 +20,8 @@ The goal of this unit is to get us familiar with Linux shell commands and script
 
 [Linux Command - Learning the Shell](http://linuxcommand.org/lc3_learning_the_shell.php)
 
+[Linux Crontab Reference Guide](https://linuxconfig.org/linux-crontab-reference-guide)
+
 [Shell Scripting Exercises](http://linuxcourse.rutgers.edu/lessons/shell_scripting/basic_sh.php)
 
 [Making a Shell Script Global](https://stackoverflow.com/questions/3560326/how-to-make-a-shell-script-global)
