@@ -31,9 +31,12 @@ Launch Sublime Text from the command line
 #### Linux Learning Resources
 
 [Linux Cheatsheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
-
-Linux Syntax
-Piping into X-Clip
+[Bash Scripting Cheatsheet](https://devhints.io/bash)
+[List of Bash Online Tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
+[Top 10 Linux Job Interview Questions](https://www.youtube.com/watch?v=l0QGLMwR-lY)
+[An In-Depth Exploration of Shell Scripting](http://www.iitk.ac.in/LDP/LDP/abs/abs-guide.pdf)
+[Teach Yourself Shell Programming in 24 hrs](http://hero.lecturer.pens.ac.id/datahero/kuliah/konsepJaringan/Teach%20Yourself%20Shell%20Programming%20in%2024%20Hours.pdf)
+[Unix Shell Programming Workbook](http://www.docs.is.ed.ac.uk/skills/documents/2630/2630.pdf)
 
 
 
