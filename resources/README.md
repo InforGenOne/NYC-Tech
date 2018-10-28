@@ -49,6 +49,9 @@ Launch Sublime Text from the command line
 
 #### Learning Git / Github workflow
 
+[Git cheatsheet]
+(https://www.git-tower.com/blog/git-cheat-sheet)
+
 
 
 
