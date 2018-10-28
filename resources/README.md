@@ -52,6 +52,8 @@ Launch Sublime Text from the command line
 [Git cheatsheet]
 (https://www.git-tower.com/blog/git-cheat-sheet)
 
+[Git crash course video]
+(https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 
 
