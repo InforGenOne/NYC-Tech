@@ -50,4 +50,5 @@ https://www.git-tower.com/blog/git-cheat-sheet
 
 #### Relational Databases Resources
 
-
+#### Markdown Cheatsheet
+http://packetlife.net/media/library/16/Markdown.pdf
