@@ -55,3 +55,8 @@ https://www.git-tower.com/blog/git-cheat-sheet
 #### Markdown Cheatsheet
 http://packetlife.net/media/library/16/Markdown.pdf
 http://packetlife.net/library/cheat-sheets/
+
+## DevOPs resources
+
+ 
+http://www.cloudcomputingexpo.com/
