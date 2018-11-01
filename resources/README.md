@@ -34,10 +34,12 @@ Linux Cheatsheet
 Linux Syntax
 Piping into X-Clip
 
+## AWS learning resources (if you're in college)
 
-
+https://aws.amazon.com/education/awseducate/
 
 #### Learning Git / Github workflow
+
 
 https://www.git-tower.com/blog/git-cheat-sheet
 
