@@ -55,6 +55,25 @@ Launch Sublime Text from the command line
 
 #### Python Learning Resources
 
+http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf
+
+https://docs.python.org/3/tutorial/
+
+https://gist.github.com/sanchitgangwar/2158089
+
+https://wiki.python.org/moin/BeginnersGuide/Programmers
+
+http://dhilipsiva.com/webapp-checklist/
+
+https://defn.io/2018/02/25/web-app-from-scratch-01/
+
+https://tutorialedge.net/python/creating-twitter-bot-python/
+
+https://www.quora.com/How-can-I-learn-Python-in-one-week
+
+https://wiki.python.org/moin/BeginnersGuide/Programmers
+
+https://ehmatthes.github.io/pcc/cheatsheets/README.html
 
 
 

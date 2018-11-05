@@ -37,8 +37,50 @@ Day 2
 
 https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/ch2.html
 
-https://www.w3schools.com/python/python_classes.asp
+https://docs.python.org/2/tutorial/inputoutput.html
+
 
 https://learnxinyminutes.com/docs/python/
 
+https://www.pythonforbeginners.com/basics/list-comprehensions-in-python
+
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
+
+Day 3
+
+https://www.w3resource.com/python-exercises/python-functions-exercises.php
+
+https://www.pythoncentral.io/pythons-range-function-explained/
+
+https://www.oreilly.com/library/view/python-cookbook/0596001673/ch03s24.html
+
+https://www.w3resource.com/python-exercises/class-exercises/python-class-exercise-1.php
+
+https://www.w3resource.com/python/python-tutorial.php
+
+https://www.w3schools.com/python/python_classes.asp
+
+Day 4
+
+https://www.programiz.com/python-programming/object-oriented-programming
+
+https://www.dotnetperls.com/class-python
+
+https://www.programiz.com/python-programming/inheritance
+
+https://www.python-course.eu/python3_inheritance.php
+
+https://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/ch2.html
+
+https://docs.python.org/3/tutorial/classes.html
+
+Day 5
+
+https://www.python-course.eu/python3_inheritance.php
+
+https://www.coursereport.com/blog/what-is-python-programming
+
+http://nbviewer.jupyter.org/github/jmportilla/Complete-Python-Bootcamp/blob/master/Final%20Capstone%20Projects/Final%20Capstone%20Project%20Ideas.ipynb
+
+https://www.quora.com/Can-you-suggest-a-Python-project-for-an-intermediate-programmer
 
