@@ -30,9 +30,19 @@ Launch Sublime Text from the command line
 
 #### Linux Learning Resources
 
-Linux Cheatsheet
-Linux Syntax
-Piping into X-Clip
+[Linux Cheatsheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
+
+[Bash Scripting Cheatsheet](https://devhints.io/bash)
+
+[List of Bash Online Tutorials](http://wiki.bash-hackers.org/scripting/tutoriallist)
+
+[Top 10 Linux Job Interview Questions](https://www.youtube.com/watch?v=l0QGLMwR-lY)
+
+[An In-Depth Exploration of Shell Scripting](http://www.iitk.ac.in/LDP/LDP/abs/abs-guide.pdf)
+
+[Teach Yourself Shell Programming in 24 hrs](http://hero.lecturer.pens.ac.id/datahero/kuliah/konsepJaringan/Teach%20Yourself%20Shell%20Programming%20in%2024%20Hours.pdf)
+
+[Unix Shell Programming Workbook](http://www.docs.is.ed.ac.uk/skills/documents/2630/2630.pdf)
 
 
 
@@ -45,6 +55,25 @@ https://www.git-tower.com/blog/git-cheat-sheet
 
 #### Python Learning Resources
 
+http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf
+
+https://docs.python.org/3/tutorial/
+
+https://gist.github.com/sanchitgangwar/2158089
+
+https://wiki.python.org/moin/BeginnersGuide/Programmers
+
+http://dhilipsiva.com/webapp-checklist/
+
+https://defn.io/2018/02/25/web-app-from-scratch-01/
+
+https://tutorialedge.net/python/creating-twitter-bot-python/
+
+https://www.quora.com/How-can-I-learn-Python-in-one-week
+
+https://wiki.python.org/moin/BeginnersGuide/Programmers
+
+https://ehmatthes.github.io/pcc/cheatsheets/README.html
 
 
 
