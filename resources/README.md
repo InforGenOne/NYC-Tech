@@ -48,16 +48,11 @@ Launch Sublime Text from the command line
 
 
 #### Learning Git / Github workflow
-
-<<<<<<< HEAD
-=======
 [Git cheatsheet]
 (https://www.git-tower.com/blog/git-cheat-sheet)
 
 [Git crash course video]
 (https://www.youtube.com/watch?v=SWYqp7iY_Tc)
->>>>>>> mybranch
-
 
 
 
@@ -87,4 +82,6 @@ https://ehmatthes.github.io/pcc/cheatsheets/README.html
 
 #### Relational Databases Resources
 
-
+#### Markdown Cheatsheet
+http://packetlife.net/media/library/16/Markdown.pdf
+http://packetlife.net/library/cheat-sheets/
