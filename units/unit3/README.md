@@ -50,4 +50,6 @@ Day 2
 
 [Video on Web Scraping](https://www.youtube.com/watch?v=XQgXKtPSzUI&t=2s)
 
+[Web Scraping Trump Lies](https://github.com/justmarkham/trump-lies/blob/master/trump_lies.ipynb)
+
 [Python Scraping Exercises](https://www.w3resource.com/python-exercises/web-scraping/index.php)
