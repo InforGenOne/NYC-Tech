@@ -9,7 +9,7 @@ The goal of this unit is to advance our skills in Python by working on scripting
 ## Daily Slides
 
 1. [Day 1](https://docs.google.com/presentation/d/1_-17VPIX1mIWoOpaif6mfmCuwumOrAGH0Jv2M54fdZY/edit?usp=sharing)
-2. [Day 2](https://docs.google.com/presentation/d/1_-17VPIX1mIWoOpaif6mfmCuwumOrAGH0Jv2M54fdZY/edit?usp=sharing)
+2. [Day 2](https://https://docs.google.com/presentation/d/1it8w4PxfsXiGrDRoSvqS0zYdsTqMpRVPghQy1s6h8EU/edit?usp=sharing)
 
 
 ## Reading and Exercises
