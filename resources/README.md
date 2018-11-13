@@ -44,13 +44,16 @@ Launch Sublime Text from the command line
 
 [Unix Shell Programming Workbook](http://www.docs.is.ed.ac.uk/skills/documents/2630/2630.pdf)
 
+## AWS learning resources (if you're in college)
 
-
+https://aws.amazon.com/education/awseducate/
 
 #### Learning Git / Github workflow
+[Git cheatsheet]
+(https://www.git-tower.com/blog/git-cheat-sheet)
 
-
-
+[Git crash course video]
+(https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 
 #### Python Learning Resources
@@ -79,4 +82,11 @@ https://ehmatthes.github.io/pcc/cheatsheets/README.html
 
 #### Relational Databases Resources
 
+#### Markdown Cheatsheet
+http://packetlife.net/media/library/16/Markdown.pdf
+http://packetlife.net/library/cheat-sheets/
 
+## DevOPs resources
+
+ 
+http://www.cloudcomputingexpo.com/
