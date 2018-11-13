@@ -1,5 +1,5 @@
 ## Intro to Cloud Technology & Foundational Cloud/DevOps Concepts @ Infor 
-## Unit 2 : Introducing Python
+## Unit 3 : Introducing Python
 
 ### Welcome!
 
