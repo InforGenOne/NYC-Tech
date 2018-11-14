@@ -9,6 +9,7 @@ The goal of this unit is to advance our skills in fundamental Dev Ops technologi
 ## Daily Slides
 
 1. [Day 1](https://docs.google.com/presentation/d/1RBIldxOsYjJk81Cu_xBc_Rjy909PVxuaWbpZBn99OSA/edit?usp=sharing)
+2. [Day 2](https://docs.google.com/presentation/d/1_8UMM-WHEq4taTZ4WoRsp2tG-d0cQPzubvJNaDmhkGw/edit?usp=sharing)
 
 
 
