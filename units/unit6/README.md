@@ -10,7 +10,7 @@ The goal of this unit is to begin diving into fundamental cloud computing concep
 
 1. [Day 1](https://docs.google.com/presentation/d/1Ogq4BI-1UAtsdnKl4oJ0VGU4bRkSW0_ybU-2S3_EH70/edit?usp=sharing)
 
-
+2. [Day 2](https://docs.google.com/presentation/d/1Ho3xPqn2334kj3aq-TB8RwJRBLNV2-3PkHOANsmAyDE/edit?usp=sharing)
 
 ## Reading and Exercises
 
